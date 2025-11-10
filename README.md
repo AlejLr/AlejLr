@@ -65,12 +65,12 @@
 #### [Twitter Emotion Analysis](https://github.com/AlejLr/twitter-emotion-analysis)
 
 *An under-development NLP dashboard for real-time sentiment and emotion classification of tweets using transformer models.*  
-(See project section on [my portfolio](https://alejlr.github.io/projects/Stata.html))
+(See project section on [my portfolio](https://google.com))
 
 #### [Dutch Housing Hedonic Pricing](https://github.com/AlejLr/Dutch-Housing-Hedonic-Prices)
 
 *An econometric analysis applying a hedonic pricing model to Dutch housing transactions (1995–2000) using Stata.*
-(See project section on [my portfolio](https://google.com))
+(See project section on [my portfolio](https://alejlr.github.io/projects/Stata.html))
 
 ---
 
