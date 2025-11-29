@@ -3,7 +3,7 @@
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/AlejLr/AlejLr/main/assets/banner-tech-blue.png" alt="banner" width="100%" />
 </p> -->
-<!--
+
 <h1 align="center">Alejandro Lopez Ruiz</h1>
 <h3 align="center">
   Data Science & AI Student at Leiden University | Minor in Economics  
@@ -62,10 +62,10 @@
 *A software development group project. I designed the frontend, managed server connection, and contributed to backend maintenance and functionality.*  
 (See project section on [my portfolio](https://alejlr.github.io/projects/RoutGuesser.html))
 
-#### [Twitter Emotion Analysis](https://github.com/AlejLr/twitter-emotion-analysis)
+#### [Social Media Emotion Analysis](https://github.com/AlejLr/Social-Media-Emotion-Analysis-Dashboard)
 
-*An under-development NLP dashboard for real-time sentiment and emotion classification of tweets using transformer models.*  
-(See project section on [my portfolio](https://google.com))
+*A NLP dashboard for real-time sentiment and emotion classification of social media posts using transformer models.*  
+(See project section on [my portfolio](https://alejlr.github.io/projects/SMAnalyzer.html))
 
 #### [Dutch Housing Hedonic Pricing](https://github.com/AlejLr/Dutch-Housing-Hedonic-Prices)
 
