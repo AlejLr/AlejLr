@@ -76,7 +76,7 @@
 
 ### Education
 
-<img src="assets/leiden.png" alt="Leiden University" width="120" align="right"/>
+<img src="assets/Leiden.png" alt="Leiden University" width="120" align="right"/>
 
 **BSc Data Science & Artificial Intelligence**  
 *Minor in Economics*
