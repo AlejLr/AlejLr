@@ -92,8 +92,8 @@ Agentic AI · MLOps · Automation · Cybersecurity · Dashboarding
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejLr&layout=compact&theme=tokyonight" height="120"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejLr&theme=tokyonight" height="120"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejLr&theme=tokyonight" alt="GitHub streak"> 
+
 </p>
 
 <!-- 👁️ Profile Views Counter (activate when ready)
